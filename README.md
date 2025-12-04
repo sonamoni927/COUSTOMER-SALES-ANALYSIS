@@ -53,9 +53,7 @@ Seasonal patterns
 2. Customer-Level Insights
 
 Top customers by revenue
-
 Purchase frequency
-
 Customer segmentation (RFM)
 
 3. Product-Level Insights
